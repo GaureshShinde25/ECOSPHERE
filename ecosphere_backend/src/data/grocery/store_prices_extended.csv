@@ -1,0 +1,72 @@
+item,price,store
+Milk,50.0,D-Mart
+Milk,55.0,Reliance Fresh
+Bread,30.0,D-Mart
+Bread,32.0,Big Bazaar
+Eggs,58.0,Reliance Fresh
+Eggs,60.0,Big Bazaar
+Tomato,25.0,D-Mart
+Tomato,28.0,Big Bazaar
+Butter,52.7,D-Mart
+Butter,52.9,Reliance Fresh
+Butter,55.1,Big Bazaar
+Cheese,112.0,D-Mart
+Cheese,122.3,Reliance Fresh
+Cheese,124.1,Big Bazaar
+Yogurt,43.8,D-Mart
+Yogurt,43.5,Reliance Fresh
+Yogurt,45.6,Big Bazaar
+Onion,32.3,D-Mart
+Onion,34.2,Reliance Fresh
+Onion,35.7,Big Bazaar
+Potato,27.6,D-Mart
+Potato,29.3,Reliance Fresh
+Potato,31.0,Big Bazaar
+Apple,133.4,D-Mart
+Apple,136.9,Reliance Fresh
+Apple,143.8,Big Bazaar
+Banana,48.4,D-Mart
+Banana,48.0,Reliance Fresh
+Banana,52.2,Big Bazaar
+Rice,91.4,D-Mart
+Rice,93.8,Reliance Fresh
+Rice,94.3,Big Bazaar
+Wheat Flour,58.6,D-Mart
+Wheat Flour,59.2,Reliance Fresh
+Wheat Flour,59.2,Big Bazaar
+Cooking Oil,152.8,D-Mart
+Cooking Oil,169.6,Reliance Fresh
+Cooking Oil,169.7,Big Bazaar
+Coffee,174.3,D-Mart
+Coffee,183.3,Reliance Fresh
+Coffee,184.1,Big Bazaar
+Tea,127.2,D-Mart
+Tea,128.7,Reliance Fresh
+Tea,133.1,Big Bazaar
+Sugar,43.6,D-Mart
+Sugar,45.4,Reliance Fresh
+Sugar,47.2,Big Bazaar
+Salt,26.7,D-Mart
+Salt,28.5,Reliance Fresh
+Salt,27.5,Big Bazaar
+Pasta,79.4,D-Mart
+Pasta,83.6,Reliance Fresh
+Pasta,83.8,Big Bazaar
+Oats,84.1,D-Mart
+Oats,87.1,Reliance Fresh
+Oats,90.2,Big Bazaar
+Corn Flakes,138.9,D-Mart
+Corn Flakes,143.4,Reliance Fresh
+Corn Flakes,146.4,Big Bazaar
+Biscuits,23.3,D-Mart
+Biscuits,24.5,Reliance Fresh
+Biscuits,26.4,Big Bazaar
+Chocolate,57.5,D-Mart
+Chocolate,60.5,Reliance Fresh
+Chocolate,59.6,Big Bazaar
+Dish Soap,38.5,D-Mart
+Dish Soap,38.9,Reliance Fresh
+Dish Soap,40.4,Big Bazaar
+Laundry Detergent,146.9,D-Mart
+Laundry Detergent,151.7,Reliance Fresh
+Laundry Detergent,153.7,Big Bazaar

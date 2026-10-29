@@ -1,0 +1,15 @@
+﻿# Smart Grocery List Optimizer - Shopping Plan
+"# User Location: Lat 19.12, Lon 72.88"
+# Generated At: 2026-10-20 23:48:30
+
+Grocery Item,Recommended Store,Price (INR),Distance (km)
+Milk,D-Mart,50.00,0.27
+Milk,D-Mart,50.00,0.27
+Milk,D-Mart,50.00,0.27
+Eggs,Reliance Fresh,58.00,0.11
+Eggs,Reliance Fresh,58.00,0.11
+Tomato,D-Mart,25.00,0.27
+Tomato,D-Mart,25.00,0.27
+Tomato,D-Mart,25.00,0.27
+Tomato,D-Mart,25.00,0.27
+TOTAL,2 Stores,366.00,0.38
